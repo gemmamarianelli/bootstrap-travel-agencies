@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+.giallo{
+    color: gold;
+}
+.verde{
+    color: green;
+}
+.celeste{
+    color: cyan;
+}
+.mare{
+    background-color: gold;
+
+}
+.neve{
+background-color: cyan;
+}
+.foresta{
+background-color: green;
+}
